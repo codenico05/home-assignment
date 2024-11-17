@@ -91,7 +91,7 @@ yarn android
 <project-root>
 │
 ├── src
-│   ├── api               #
+│   ├── api               # API instance structure and helpers
 │   ├── app               # Custom hooks
 │   ├── assets            # Practice and Statistics screens
 │   ├── components        # Main UI components
